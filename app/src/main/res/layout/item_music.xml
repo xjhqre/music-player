@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginRight="10dp"
+    android:layout_marginLeft="10dp"
+    android:layout_marginTop="10dp"
+    app:contentPadding="10dp"
+    app:cardElevation="0dp">
+
+
+    <RelativeLayout
+        android:id="@+id/musicItem"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <!-- 歌曲序号 -->
+        <TextView
+            android:id="@+id/item_local_music_num"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:text="1"
+            android:textSize="24sp"
+            android:textStyle="bold" />
+
+        <!-- 歌曲名称 -->
+        <TextView
+            android:id="@+id/item_local_music_song"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="20dp"
+            android:layout_marginTop="0dp"
+            android:layout_toEndOf="@id/item_local_music_num"
+            android:singleLine="true"
+            android:text=""
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <!-- 作者名称 -->
+        <TextView
+            android:id="@+id/item_local_music_singer"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text=""
+            android:layout_below="@id/item_local_music_song"
+            android:layout_alignStart="@id/item_local_music_song"
+            android:layout_marginTop="10dp"
+            android:textSize="14sp"
+            android:textColor="#888"/>
+
+        <!-- 分割线 -->
+        <TextView
+            android:id="@+id/item_local_music_line"
+            android:layout_width="8dp"
+            android:layout_height="2dp"
+            android:background="#888"
+            android:layout_toEndOf="@id/item_local_music_singer"
+            android:layout_marginTop="8dp"
+            android:layout_marginLeft="8dp"
+            android:layout_marginRight="8dp"
+            android:layout_alignTop="@id/item_local_music_singer"/>
+
+        <!-- 专辑名称 -->
+        <TextView
+            android:id="@+id/item_local_music_album"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text=""
+            android:layout_toRightOf="@id/item_local_music_line"
+            android:layout_alignTop="@id/item_local_music_singer"
+            android:textSize="14sp"
+            android:textColor="#888"
+            android:ellipsize="end"
+            android:singleLine="true"/>
+
+        <ImageButton
+            android:id="@+id/item_music_heart"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_alignParentEnd="true"
+            android:layout_centerVertical="true"
+            android:layout_marginEnd="20dp"
+            android:background="@drawable/ic_heart_fill" />
+
+    </RelativeLayout>
+
+
+</androidx.cardview.widget.CardView>

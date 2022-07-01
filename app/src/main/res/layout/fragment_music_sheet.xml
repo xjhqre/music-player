@@ -1,0 +1,237 @@
+<androidx.coordinatorlayout.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/silver_grey_bg"
+    android:clipChildren="false"
+    android:fitsSystemWindows="true">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:clipChildren="false">
+
+        <com.google.android.material.appbar.AppBarLayout
+            android:id="@+id/AppBarLayout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:theme="@style/AppTheme.AppBarOverlay"
+            app:elevation="0dp">
+
+
+            <androidx.appcompat.widget.Toolbar
+                android:id="@+id/fragment_music_sheet_toolbar"
+                android:layout_width="match_parent"
+                android:layout_height="?attr/actionBarSize"
+                android:background="#F1F1F3"
+                app:popupTheme="@style/AppTheme.PopupOverlay">
+
+                <LinearLayout
+                    android:id="@+id/fragment_music_sheet_navigation"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:gravity="center_vertical"
+                    android:orientation="horizontal">
+
+                    <ImageView
+                        android:layout_width="34dp"
+                        android:layout_height="34dp"
+                        android:src="@drawable/ic_drawer_home" />
+
+                </LinearLayout>
+
+            </androidx.appcompat.widget.Toolbar>
+
+        </com.google.android.material.appbar.AppBarLayout>
+
+
+        <RelativeLayout
+            android:id="@+id/fragment_home_user_inf"
+            android:layout_width="match_parent"
+            android:layout_height="120dp"
+            android:layout_below="@id/AppBarLayout"
+            android:layout_marginStart="16dp"
+            android:layout_marginLeft="16dp"
+            android:layout_marginTop="50dp"
+            android:layout_marginEnd="16dp"
+            android:layout_marginRight="16dp"
+            android:background="@drawable/shape_50dp_corners"
+            android:clipChildren="false"
+            android:orientation="vertical">
+
+            <TableRow
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_above="@id/fragment_music_sheet_user_name"
+                android:layout_centerHorizontal="true"
+                android:layout_marginBottom="10dp">
+
+                <com.example.music_player.widget.RoundImageView
+                    android:layout_width="90dp"
+                    android:layout_height="90dp"
+                    android:layout_gravity="bottom" />
+
+            </TableRow>
+
+
+            <TextView
+                android:id="@+id/fragment_music_sheet_user_name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:layout_centerHorizontal="true"
+                android:layout_gravity="right"
+                android:layout_marginBottom="30dp"
+                android:text="xjhqre"
+                android:textColor="#000000"
+                android:textSize="24sp" />
+
+
+        </RelativeLayout>
+
+
+        <RelativeLayout
+            android:id="@+id/fragment_music_sheet_component_box"
+            android:layout_width="match_parent"
+            android:layout_height="160dp"
+            android:layout_below="@id/fragment_home_user_inf"
+            android:layout_marginStart="16dp"
+            android:layout_marginLeft="16dp"
+            android:layout_marginTop="20dp"
+            android:layout_marginEnd="16dp"
+            android:layout_marginRight="16dp"
+            android:background="@drawable/shape_50dp_corners"
+            android:gravity="center">
+
+
+            <GridLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:columnCount="4"
+                android:orientation="horizontal"
+                android:rowCount="2">
+
+                <TextView
+                    android:id="@+id/ic_recently_played"
+                    android:layout_columnWeight="1"
+                    android:layout_gravity="center"
+                    android:padding="10dp"
+                    android:text="最近播放"
+                    android:textColor="@color/Gray31"
+                    android:textSize="12sp"
+                    app:drawableTopCompat="@drawable/ic_recently_played" />
+
+                　　
+
+                <TextView
+                    android:layout_columnWeight="1"
+                    android:layout_gravity="center"
+                    android:padding="10dp"
+                    android:text="下载"
+                    android:textColor="@color/Gray31"
+                    android:textSize="12sp"
+                    app:drawableTopCompat="@drawable/ic_download" />
+
+                　　　
+
+                <TextView
+                    android:layout_columnWeight="1"
+                    android:layout_gravity="center"
+                    android:padding="10dp"
+                    android:text="云盘"
+                    android:textColor="@color/Gray31"
+                    android:textSize="12sp"
+                    app:drawableTopCompat="@drawable/ic_upload" />
+
+                　　
+
+                <TextView
+                    android:layout_columnWeight="1"
+                    android:layout_gravity="center"
+                    android:padding="10dp"
+                    android:text="已购"
+                    android:textColor="@color/Gray31"
+                    android:textSize="12sp"
+                    app:drawableTopCompat="@drawable/ic_buy" />
+                　　
+
+                <TextView
+                    android:layout_gravity="center"
+                    android:padding="10dp"
+                    android:text="我的好友"
+                    android:textColor="@color/Gray31"
+                    android:textSize="12sp"
+                    app:drawableTopCompat="@drawable/ic_friend" />
+                　　
+
+                <TextView
+                    android:layout_gravity="center"
+                    android:padding="10dp"
+                    android:text="赞和收藏"
+                    android:textColor="@color/Gray31"
+                    android:textSize="12sp"
+                    app:drawableTopCompat="@drawable/ic_star" />
+                　　
+
+                <TextView
+                    android:layout_gravity="center"
+                    android:padding="10dp"
+                    android:text="我的播客"
+                    android:textColor="@color/Gray31"
+                    android:textSize="12sp"
+                    app:drawableTopCompat="@drawable/ic_boke2" />
+                　　
+
+                <TextView
+                    android:layout_gravity="center"
+                    android:padding="10dp"
+                    android:text="音乐盒子"
+                    android:textColor="@color/Gray31"
+                    android:textSize="12sp"
+                    app:drawableTopCompat="@drawable/ic_box" />
+                　
+
+
+            </GridLayout>
+
+
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/fragment_home_music_sheet"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/fragment_music_sheet_component_box"
+            android:layout_marginStart="16dp"
+            android:layout_marginLeft="16dp"
+            android:layout_marginTop="20dp"
+            android:layout_marginEnd="16dp"
+            android:layout_marginRight="16dp"
+            android:background="@drawable/shape_50dp_corners"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="15dp"
+                android:text="我的歌单"
+                android:textColor="@color/Gray" />
+
+
+            <androidx.recyclerview.widget.RecyclerView
+
+                android:id="@+id/recycler_view_music_sheet"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="15dp"
+                android:layout_marginTop="60dp"
+                android:layout_marginEnd="15dp"
+                android:layout_marginBottom="15dp" />
+
+        </RelativeLayout>
+
+
+    </RelativeLayout>
+
+
+</androidx.coordinatorlayout.widget.CoordinatorLayout>

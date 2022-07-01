@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/workspace/AndroidStudioProjects/musicplayer-big/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/workspace/AndroidStudioProjects/musicplayer-big/app/src/main/res/drawable/asd.xml" value="0.2405" />
+        <entry key="..\:/workspace/AndroidStudioProjects/musicplayer-big/app/src/main/res/drawable/bg_searchview.xml" value="0.129" />
+        <entry key="..\:/workspace/AndroidStudioProjects/musicplayer-big/app/src/main/res/drawable/btn_bg_selector.xml" value="0.2405" />
+        <entry key="..\:/workspace/AndroidStudioProjects/musicplayer-big/app/src/main/res/drawable/ic___.xml" value="0.2405" />
+        <entry key="..\:/workspace/AndroidStudioProjects/musicplayer-big/app/src/main/res/drawable/ic_back.xml" value="0.2405" />
+        <entry key="..\:/workspace/AndroidStudioProjects/musicplayer-big/app/src/main/res/drawable/ic_boke.xml" value="0.2405" />
+        <entry key="..\:/workspace/AndroidStudioProjects/musicplayer-big/app/src/main/res/drawable/ic_boke2.xml" value="0.2465" />
+        <entry key="..\:/workspace/AndroidStudioProjects/musicplayer-big/app/src/main/res/drawable/ic_box.xml" value="0.2465" />
+        <entry key="..\:/workspace/AndroidStudioProjects/musicplayer-big/app/src/main/res/drawable/ic_buy.xml" value="0.2365" />
+        <entry key="..\:/workspace/AndroidStudioProjects/musicplayer-big/app/src/main/res/drawable/ic_circle.xml" value="0.2325" />
+        <entry key="..\:/workspace/AndroidStudioProjects/musicplayer-big/app/src/main/res/drawable/ic_down.xml" value="0.2465" />
+        <entry key="..\:/workspace/AndroidStudioProjects/musicplayer-big/app/src/main/res/drawable/ic_download.xml" value="0.1425" />
+        <entry key="..\:/workspace/AndroidStudioProjects/musicplayer-big/app/src/main/res/drawable/ic_drawer_home.xml" value="0.25" />
+        <entry key="..\:/workspace/AndroidStudioProjects/musicplayer-big/app/src/main/res/drawable/ic_email.xml" value="0.2405" />
+        <entry key="..\:/workspace/AndroidStudioProjects/musicplayer-big/app/src/main/res/drawable/ic_found.xml" value="0.2405" />
+        <entry key="..\:/workspace/AndroidStudioProjects/musicplayer-big/app/src/main/res/drawable/ic_found_selected.xml" value="0.2325" />
+        <entry key="..\:/workspace/AndroidStudioProjects/musicplayer-big/app/src/main/res/drawable/ic_friend.xml" value="0.156" />
+        <entry key="..\:/workspace/AndroidStudioProjects/musicplayer-big/app/src/main/res/drawable/ic_guanzhu.xml" value="0.2405" />
+        <entry key="..\:/workspace/AndroidStudioProjects/musicplayer-big/app/src/main/res/drawable/ic_heart.xml" value="0.228" />
+        <entry key="..\:/workspace/AndroidStudioProjects/musicplayer-big/app/src/main/res/drawable/ic_heart_fill.xml" value="0.228" />
+        <entry key="..\:/workspace/AndroidStudioProjects/musicplayer-big/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2405" />
+        <entry key="..\:/workspace/AndroidStudioProjects/musicplayer-big/app/src/main/res/drawable/ic_leida.xml" value="0.2405" />
+        <entry key="..\:/workspace/AndroidStudioProjects/musicplayer-big/app/src/main/res/drawable/ic_lock.xml" value="0.2405" />
+        <entry key="..\:/workspace/AndroidStudioProjects/musicplayer-big/app/src/main/res/drawable/ic_main_pause.xml" value="0.2405" />
+        <entry key="..\:/workspace/AndroidStudioProjects/musicplayer-big/app/src/main/res/drawable/ic_main_play.xml" value="0.2405" />
+        <entry key="..\:/workspace/AndroidStudioProjects/musicplayer-big/app/src/main/res/drawable/ic_music.xml" value="0.2405" />
+        <entry key="..\:/workspace/AndroidStudioProjects/musicplayer-big/app/src/main/res/drawable/ic_music_searh.xml" value="0.2325" />
+        <entry key="..\:/workspace/AndroidStudioProjects/musicplayer-big/app/src/main/res/drawable/ic_music_selected.xml" value="0.2325" />
+        <entry key="..\:/workspace/AndroidStudioProjects/musicplayer-big/app/src/main/res/drawable/ic_next.xml" value="0.156" />
+        <entry key="..\:/workspace/AndroidStudioProjects/musicplayer-big/app/src/main/res/drawable/ic_only.xml" value="0.1425" />
+        <entry key="..\:/workspace/AndroidStudioProjects/musicplayer-big/app/src/main/res/drawable/ic_order.xml" value="0.1425" />
+        <entry key="..\:/workspace/AndroidStudioProjects/musicplayer-big/app/src/main/res/drawable/ic_pause.xml" value="0.156" />
+        <entry key="..\:/workspace/AndroidStudioProjects/musicplayer-big/app/src/main/res/drawable/ic_phone.xml" value="0.2405" />
+        <entry key="..\:/workspace/AndroidStudioProjects/musicplayer-big/app/src/main/res/drawable/ic_play.xml" value="0.156" />
+        <entry key="..\:/workspace/AndroidStudioProjects/musicplayer-big/app/src/main/res/drawable/ic_playlist.xml" value="0.2135" />
+        <entry key="..\:/workspace/AndroidStudioProjects/musicplayer-big/app/src/main/res/drawable/ic_playlist_2.xml" value="0.2135" />
+        <entry key="..\:/workspace/AndroidStudioProjects/musicplayer-big/app/src/main/res/drawable/ic_random.xml" value="0.2135" />
+        <entry key="..\:/workspace/AndroidStudioProjects/musicplayer-big/app/src/main/res/drawable/ic_recently_played.xml" value="0.156" />
+        <entry key="..\:/workspace/AndroidStudioProjects/musicplayer-big/app/src/main/res/drawable/ic_record.xml" value="0.156" />
+        <entry key="..\:/workspace/AndroidStudioProjects/musicplayer-big/app/src/main/res/drawable/ic_regist_back.xml" value="0.2405" />
+        <entry key="..\:/workspace/AndroidStudioProjects/musicplayer-big/app/src/main/res/drawable/ic_search.xml" value="0.1745" />
+        <entry key="..\:/workspace/AndroidStudioProjects/musicplayer-big/app/src/main/res/drawable/ic_star.xml" value="0.156" />
+        <entry key="..\:/workspace/AndroidStudioProjects/musicplayer-big/app/src/main/res/drawable/ic_upload.xml" value="0.156" />
+        <entry key="..\:/workspace/AndroidStudioProjects/musicplayer-big/app/src/main/res/drawable/ic_user.xml" value="0.2405" />
+        <entry key="..\:/workspace/AndroidStudioProjects/musicplayer-big/app/src/main/res/drawable/ic_voice.xml" value="0.2405" />
+        <entry key="..\:/workspace/AndroidStudioProjects/musicplayer-big/app/src/main/res/drawable/login_btn_bg.xml" value="0.2405" />
+        <entry key="..\:/workspace/AndroidStudioProjects/musicplayer-big/app/src/main/res/drawable/login_round_border.xml" value="0.2405" />
+        <entry key="..\:/workspace/AndroidStudioProjects/musicplayer-big/app/src/main/res/drawable/play_page_cover_border_shape.xml" value="0.22" />
+        <entry key="..\:/workspace/AndroidStudioProjects/musicplayer-big/app/src/main/res/drawable/play_page_cover_top_line_shape.xml" value="0.2405" />
+        <entry key="..\:/workspace/AndroidStudioProjects/musicplayer-big/app/src/main/res/drawable/round_corner_rectangle.xml" value="0.133" />
+        <entry key="..\:/workspace/AndroidStudioProjects/musicplayer-big/app/src/main/res/drawable/search_shape.xml" value="0.2365" />
+        <entry key="..\:/workspace/AndroidStudioProjects/musicplayer-big/app/src/main/res/drawable/shape_50dp_corners.xml" value="0.2405" />
+        <entry key="..\:/workspace/AndroidStudioProjects/musicplayer-big/app/src/main/res/drawable/shape_search_toolbar.xml" value="0.225" />
+        <entry key="..\:/workspace/AndroidStudioProjects/musicplayer-big/app/src/main/res/layout-v21/activity_login.xml" value="0.24270833333333333" />
+        <entry key="..\:/workspace/AndroidStudioProjects/musicplayer-big/app/src/main/res/layout/activity_login.xml" value="0.240625" />
+        <entry key="..\:/workspace/AndroidStudioProjects/musicplayer-big/app/src/main/res/layout/activity_main.xml" value="0.45208333333333334" />
+        <entry key="..\:/workspace/AndroidStudioProjects/musicplayer-big/app/src/main/res/layout/activity_music.xml" value="0.25" />
+        <entry key="..\:/workspace/AndroidStudioProjects/musicplayer-big/app/src/main/res/layout/activity_music_list.xml" value="0.25" />
+        <entry key="..\:/workspace/AndroidStudioProjects/musicplayer-big/app/src/main/res/layout/activity_net_music_search.xml" value="0.25" />
+        <entry key="..\:/workspace/AndroidStudioProjects/musicplayer-big/app/src/main/res/layout/activity_registered.xml" value="0.24270833333333333" />
+        <entry key="..\:/workspace/AndroidStudioProjects/musicplayer-big/app/src/main/res/layout/activity_searchable.xml" value="0.165625" />
+        <entry key="..\:/workspace/AndroidStudioProjects/musicplayer-big/app/src/main/res/layout/activity_statusbar_darkmode.xml" value="0.2171875" />
+        <entry key="..\:/workspace/AndroidStudioProjects/musicplayer-big/app/src/main/res/layout/activity_statusbar_immersive_1.xml" value="0.2171875" />
+        <entry key="..\:/workspace/AndroidStudioProjects/musicplayer-big/app/src/main/res/layout/activity_statusbar_immersive_2.xml" value="0.33" />
+        <entry key="..\:/workspace/AndroidStudioProjects/musicplayer-big/app/src/main/res/layout/activity_statusbar_immersive_3.xml" value="0.2171875" />
+        <entry key="..\:/workspace/AndroidStudioProjects/musicplayer-big/app/src/main/res/layout/activity_statusbar_tint.xml" value="0.2171875" />
+        <entry key="..\:/workspace/AndroidStudioProjects/musicplayer-big/app/src/main/res/layout/activity_test.xml" value="0.33" />
+        <entry key="..\:/workspace/AndroidStudioProjects/musicplayer-big/app/src/main/res/layout/content_main.xml" value="0.165625" />
+        <entry key="..\:/workspace/AndroidStudioProjects/musicplayer-big/app/src/main/res/layout/fragment_home.xml" value="0.2171875" />
+        <entry key="..\:/workspace/AndroidStudioProjects/musicplayer-big/app/src/main/res/layout/fragment_music.xml" value="0.18161094224924013" />
+        <entry key="..\:/workspace/AndroidStudioProjects/musicplayer-big/app/src/main/res/layout/fragment_music_found.xml" value="0.22" />
+        <entry key="..\:/workspace/AndroidStudioProjects/musicplayer-big/app/src/main/res/layout/fragment_music_sheet.xml" value="0.33" />
+        <entry key="..\:/workspace/AndroidStudioProjects/musicplayer-big/app/src/main/res/layout/fragment_music_sheet_fragment.xml" value="0.24270833333333333" />
+        <entry key="..\:/workspace/AndroidStudioProjects/musicplayer-big/app/src/main/res/layout/fragment_search.xml" value="0.16296296296296298" />
+        <entry key="..\:/workspace/AndroidStudioProjects/musicplayer-big/app/src/main/res/layout/fragment_simple.xml" value="0.24270833333333333" />
+        <entry key="..\:/workspace/AndroidStudioProjects/musicplayer-big/app/src/main/res/layout/item_banner.xml" value="0.11018518518518519" />
+        <entry key="..\:/workspace/AndroidStudioProjects/musicplayer-big/app/src/main/res/layout/item_home_fragment.xml" value="0.33" />
+        <entry key="..\:/workspace/AndroidStudioProjects/musicplayer-big/app/src/main/res/layout/item_music.xml" value="0.3734375" />
+        <entry key="..\:/workspace/AndroidStudioProjects/musicplayer-big/app/src/main/res/layout/item_music_sheet.xml" value="0.3676923076923077" />
+        <entry key="..\:/workspace/AndroidStudioProjects/musicplayer-big/app/src/main/res/layout/item_net_music.xml" value="0.25" />
+        <entry key="..\:/workspace/AndroidStudioProjects/musicplayer-big/app/src/main/res/layout/nav_header_main.xml" value="0.2171875" />
+        <entry key="..\:/workspace/AndroidStudioProjects/musicplayer-big/app/src/main/res/layout/text.xml" value="0.240625" />
+        <entry key="..\:/workspace/AndroidStudioProjects/musicplayer-big/app/src/main/res/menu/activity_main_drawer.xml" value="0.2171875" />
+        <entry key="..\:/workspace/AndroidStudioProjects/musicplayer-big/app/src/main/res/menu/main.xml" value="0.2171875" />
+        <entry key="..\:/workspace/AndroidStudioProjects/musicplayer-big/app/src/main/res/menu/menu_search_view.xml" value="0.33" />
+        <entry key="..\:/workspace/AndroidStudioProjects/musicplayer-big/app/src/main/res/menu/search_menu.xml" value="0.3734375" />
+        <entry key="..\:/workspace/AndroidStudioProjects/musicplayer-big/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.224" />
+        <entry key="..\:/workspace/AndroidStudioProjects/musicplayer-big/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.224" />
+        <entry key="..\:/workspace/AndroidStudioProjects/musicplayer-big/app/src/main/res/xml/network_security_config.xml" value="0.11018518518518519" />
+        <entry key="..\:/workspace/AndroidStudioProjects/musicplayer/app/src/main/res/drawable/btn_bg_selector.xml" value="0.2005" />
+        <entry key="..\:/workspace/AndroidStudioProjects/musicplayer/app/src/main/res/drawable/ic___.xml" value="0.147" />
+        <entry key="..\:/workspace/AndroidStudioProjects/musicplayer/app/src/main/res/drawable/ic____.xml" value="0.2025" />
+        <entry key="..\:/workspace/AndroidStudioProjects/musicplayer/app/src/main/res/drawable/ic_back.xml" value="0.1" />
+        <entry key="..\:/workspace/AndroidStudioProjects/musicplayer/app/src/main/res/drawable/ic_down.xml" value="0.147" />
+        <entry key="..\:/workspace/AndroidStudioProjects/musicplayer/app/src/main/res/drawable/ic_launcher_background.xml" value="0.147" />
+        <entry key="..\:/workspace/AndroidStudioProjects/musicplayer/app/src/main/res/drawable/ic_main_pause.xml" value="0.1665" />
+        <entry key="..\:/workspace/AndroidStudioProjects/musicplayer/app/src/main/res/drawable/ic_next.xml" value="0.212" />
+        <entry key="..\:/workspace/AndroidStudioProjects/musicplayer/app/src/main/res/drawable/ic_only.xml" value="0.1665" />
+        <entry key="..\:/workspace/AndroidStudioProjects/musicplayer/app/src/main/res/drawable/ic_order.xml" value="0.261" />
+        <entry key="..\:/workspace/AndroidStudioProjects/musicplayer/app/src/main/res/drawable/ic_pause.xml" value="0.147" />
+        <entry key="..\:/workspace/AndroidStudioProjects/musicplayer/app/src/main/res/drawable/ic_play.xml" value="0.147" />
+        <entry key="..\:/workspace/AndroidStudioProjects/musicplayer/app/src/main/res/drawable/ic_play_circle.xml" value="0.147" />
+        <entry key="..\:/workspace/AndroidStudioProjects/musicplayer/app/src/main/res/drawable/ic_random.xml" value="0.1665" />
+        <entry key="..\:/workspace/AndroidStudioProjects/musicplayer/app/src/main/res/drawable/ic_record.xml" value="0.2005" />
+        <entry key="..\:/workspace/AndroidStudioProjects/musicplayer/app/src/main/res/drawable/ic_single_tune_circulation.xml" value="0.1665" />
+        <entry key="..\:/workspace/AndroidStudioProjects/musicplayer/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/workspace/AndroidStudioProjects/musicplayer/app/src/main/res/layout/activity_music.xml" value="0.29213483146067415" />
+        <entry key="..\:/workspace/AndroidStudioProjects/musicplayer/app/src/main/res/layout/frag2_layout.xml" value="0.19270833333333334" />
+        <entry key="..\:/workspace/AndroidStudioProjects/musicplayer/app/src/main/res/layout/fragment_blank.xml" value="0.3734375" />
+        <entry key="..\:/workspace/AndroidStudioProjects/musicplayer/app/src/main/res/layout/fragment_music.xml" value="0.25806451612903225" />
+        <entry key="..\:/workspace/AndroidStudioProjects/musicplayer/app/src/main/res/layout/item_layout.xml" value="0.19270833333333334" />
+        <entry key="..\:/workspace/AndroidStudioProjects/musicplayer/app/src/main/res/layout/item_music.xml" value="0.33" />
+        <entry key="..\:/workspace/AndroidStudioProjects/musicplayer/app/src/main/res/layout/mainlayout.xml" value="0.33" />
+        <entry key="..\:/workspace/AndroidStudioProjects/musicplayer/app/src/main/res/layout/music_list.xml" value="0.19270833333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

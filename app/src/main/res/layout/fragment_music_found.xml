@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/silver_grey_bg"
+    android:clipChildren="false"
+    android:fitsSystemWindows="true">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:clipChildren="false">
+
+
+        <LinearLayout
+            android:id="@+id/top_bar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:id="@+id/fragment_music_found_navigation"
+                android:layout_width="34dp"
+                android:layout_height="34dp"
+                android:layout_gravity="center"
+                android:layout_marginStart="16dp"
+                android:src="@drawable/ic_drawer_home" />
+
+            <androidx.appcompat.widget.Toolbar
+                android:id="@+id/fragment_music_found_toolbar"
+                style="@style/Toolbar.MyStyle"
+                android:layout_width="match_parent"
+                android:layout_height="?attr/actionBarSize"
+                android:layout_gravity="center"
+                android:layout_marginStart="20dp"
+                android:layout_marginEnd="20dp"
+                android:background="@drawable/shape_search_toolbar"
+                app:popupTheme="@style/ThemeOverlay.AppCompat.Light"
+                app:title=" "
+                app:titleTextAppearance="@style/Toolbar.TitleText"
+                app:titleTextColor="@color/Gray31" />
+
+        </LinearLayout>
+
+        <com.bigkoo.convenientbanner.ConvenientBanner
+            android:id="@+id/fragment_music_found_convenientBanner"
+            android:layout_width="match_parent"
+            android:layout_height="170dp"
+            android:layout_below="@id/top_bar"
+            android:layout_marginStart="20dp"
+            android:layout_marginTop="20dp"
+            android:layout_marginEnd="20dp"
+            android:layout_marginBottom="20dp"
+            app:canLoop="true" />
+
+
+    </RelativeLayout>
+
+
+</androidx.coordinatorlayout.widget.CoordinatorLayout>

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">xMusicPlayer</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">设置</string>
+    <string name="search_hint">搜索单词</string>
+    <string name="notice">"你所查询的单词为： "</string>
+    <string name="action_search">搜索</string>
+</resources>
